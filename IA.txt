@@ -1,0 +1,10 @@
+Herramienta utilizada: GitHub Copilot
+
+Qué se pidió:
+Asistencia y guía en la sintaxis para configurar el archivo admin.py en Django, específicamente en la creación de ModelAdmin, list_display, filtros de búsqueda y la función para formatear los montos con el símbolo de peso chileno.
+
+Archivos generados o modificados con apoyo de la IA:
+libreria/admin.py (estructura de personalización del panel y formateo de precios).
+
+Qué se cambió o adaptó:
+Se ajustaron los nombres de los campos de los modelos (Editorial y Libro) para que coincidieran exactamente con la base de datos y se adaptaron las descripciones del @admin.display según los requerimientos de la rúbrica. El resto del código de modelos, vistas y configuración inicial se realizó de manera propia.
